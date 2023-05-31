@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672994202 source:c:\.azzam\coding\c++\tubesstrukdat\main.cpp
+	"history.h"
+
+1672995132 source:c:\.azzam\coding\c++\tubesstrukdat\history.cpp
+	"history.h"
+
+1672971171 c:\.azzam\coding\c++\tubesstrukdat\history.h
+	<iostream>
+
