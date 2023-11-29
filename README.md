@@ -1,2 +1,3 @@
 # data-structure
-Merupakan struktur data yang menggunakan konsep double linked list dan menggunakan bahasa C++. Kode ini berfungsi untuk menyimpan history user.
+
+The User History Data Structure in C++ employs a double linked list with a child concept to efficiently organize user history. Each node contains information about user activities, and a child pointer establishes hierarchical relationships for subcategories or detailed events. This structure offers flexibility for organized representation, allowing users to navigate linearly or explore specific branches. Practical applications include scenarios like browsing history with subcategories or transaction histories with detailed events. Easily integrable into C++ projects, developers can adapt and extend it as needed. Contributions and feedback for improvement are welcome through issues or pull requests.
